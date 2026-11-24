@@ -1,0 +1,17 @@
+body {
+margin: 0;
+padding: 2rem 1rem;
+font-family: system-ui, sans-serif;
+line-height: 1.6;
+background: #eef2f7;
+color: #182235;
+}
+main {
+max-width: 42rem;
+margin: auto;
+padding: 2rem;
+background: white;
+border-radius: 12px;
+}
+h1 { color: #174ea6; }
+a { color: #174ea6; }
